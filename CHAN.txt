@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THIS IS CHAN-rao
+=======
+THIS IS CHANikya
+>>>>>>> origin/master
